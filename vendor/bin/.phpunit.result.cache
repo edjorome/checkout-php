@@ -1,0 +1,1 @@
+{"version":2,"defects":{"PercentageDiscountTest::testNegativeDiscountThrowsException":7},"times":{"PercentageDiscountTest::testApplyDiscount":0.001,"PercentageDiscountTest::testNegativeDiscountThrowsException":0.005}}
